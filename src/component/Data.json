@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"thắng",
+        "tel":"123123123",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"thắng 2",
+        "tel":"123123123",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"thắng 3",
+        "tel":"123123123",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"thắng 4",
+        "tel":"123123123",
+        "permission":4
+    }
+]
